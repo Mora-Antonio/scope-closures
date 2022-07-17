@@ -1,0 +1,20 @@
+{
+  "name": "scope-closures",
+  "version": "1.0.0",
+  "description": "El scope está presente cuando definamos variables y funciones. Lo podemos definir como el alcance que determina la accesibilidad de las variables, objetos y funciones.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+q    "type": "git",
+    "url": "git+https://github.com/Mora-Antonio/scope-closures.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mora-Antonio/scope-closures/issues"
+  },
+  "homepage": "https://github.com/Mora-Antonio/scope-closures#readme"
+}

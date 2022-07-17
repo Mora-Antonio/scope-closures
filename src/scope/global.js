@@ -20,3 +20,5 @@ function countries()
 }
 countries();
 console.log(country);
+var a = 10;
+a
